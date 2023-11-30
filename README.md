@@ -1,6 +1,7 @@
-#  Stojanov David <img src="https://komarev.com/ghpvc/?username=stojanov-d&label=Profile%20views&color=0e75b6&style=plastic" alt="stojanov-d" />
-
-**`Software Engineering Student / Junior Software Developer`**
+#  Stojanov David <img align="right" src="https://komarev.com/ghpvc/?username=stojanov-d&label=Profile%20views&color=0e75b6&style=plastic" alt="stojanov-d" />
+<div align="center">
+  <p><strong><code>Software Engineering Student / Junior Software Developer</code></strong></p>
+</div>
 
 <div align="center">
   <a>
