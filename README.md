@@ -1,5 +1,5 @@
-<h1 align="center"> stojanov-d</h1>
-<h3 align="center">Software developer</h3>
+<h2 align="center">stojanov-d</h1>
+<h3 align="center">Software engineering student</h3>
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=stojanov-d&label=Profile%20views&color=0e75b6&style=flat" alt="stojanov-d" /> </div>
 
