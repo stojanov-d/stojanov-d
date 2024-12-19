@@ -5,7 +5,7 @@
 
 <div align="center">
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stojanov-d&theme=dark" alt="stojanov-d" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stojanov-d&show_icons=true&theme=dark&locale=en&layout=compact" alt="stojanov-d" />
   </a>
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=stojanov-d&show_icons=true&theme=dark&locale=en" alt="stojanov-d" />
