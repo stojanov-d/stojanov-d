@@ -5,10 +5,10 @@
 
 <div align="center">
   <a>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=stojanov-d&show_icons=true&theme=dark&locale=en&layout=compact" alt="stojanov-d" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=stojanov-d&show_icons=true&theme=dark&locale=en&layout=compact" alt="stojanov-d" />
   </a>
   <a>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=stojanov-d&show_icons=true&theme=dark&locale=en" alt="stojanov-d" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=stojanov-d&show_icons=true&theme=dark&locale=en" alt="stojanov-d" />
   </a>
 </div>
 
